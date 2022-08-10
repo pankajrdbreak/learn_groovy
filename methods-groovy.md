@@ -12,3 +12,5 @@ pankaj@pankajv:~/Downloads$ groovy methods.groovy
 [Xyz, is]
 [Xyz, is, clever]
 ```
+
+#### 2. 
