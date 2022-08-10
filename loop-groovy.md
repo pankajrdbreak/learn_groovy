@@ -39,3 +39,17 @@ pankaj@pankajv:~/Downloads$ groovy times.groovy
 8
 9
 ```
+
+### step keyword
+```console
+0.step(9,2){println "$it"}
+```
+#### Output
+```console
+pankaj@pankajv:~/Downloads$ groovy step.groovy 
+0
+2
+4
+6
+8
+```
