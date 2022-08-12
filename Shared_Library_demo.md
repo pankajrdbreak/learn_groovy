@@ -23,7 +23,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                HelloWorld("Pankaj","Friday")
+                HelloWorld()
             }
         }
     }
